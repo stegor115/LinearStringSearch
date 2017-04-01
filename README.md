@@ -1,0 +1,2 @@
+# LinearStringSearch
+School project
